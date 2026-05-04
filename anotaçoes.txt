@@ -1,0 +1,3 @@
+#algumaCoisa → busca por id
+.classe → busca por classe
+[atributo='valor'] → busca por atributo HTML

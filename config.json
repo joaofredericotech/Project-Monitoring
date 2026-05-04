@@ -1,0 +1,29 @@
+{
+    "headless": false,
+    "telegram": {
+        "ativo": true,
+        "bot_token": "",
+        "chat_id": ""
+    },
+    "sites": [
+            {
+            "nome": "",
+            "url": "",
+            "usuario": "",
+            "senha": "",
+
+            "campo_usuario": "",
+            "campo_senha": "",
+            "botao_login": "",
+
+            "texto_sucesso": "",
+            "timeout_ms": 25000,
+            "tempo_apos_login_ms": 7000,
+            "apenas_verificar_online": false
+        }
+    ]
+}
+
+
+''' _autor: Joao Frederico,
+_projeto: Monitoramento de Sistemas 
